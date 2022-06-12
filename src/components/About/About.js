@@ -27,9 +27,7 @@ const About = () => {
                         <small>30+ Completed</small>
                     </article>
                 </div>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, deserunt officiis! Nostrum nihil obcaecati praesentium debitis doloribus enim odit aut voluptas laborum perspiciatis fuga, quidem deserunt et maiores repellat qui.
-                </p>
+                <p>I am a junior fullstack developer. I am pushing myself hard every single day to learn and explore new tools and technologies.</p>
                 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             </div>
         </section>
