@@ -27,7 +27,7 @@ const About = () => {
                         <small>30+ Completed</small>
                     </article>
                 </div>
-                <p>I am a junior fullstack developer. I am pushing myself hard every single day to learn and explore new tools and technologies.</p>
+                <p>I am a junior fullstack developer. I am pushing myself hard every single day to learn and explore new tools and technologies. I am sincere to my work. I always try to finish my work on time.</p>
                 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             </div>
         </section>
