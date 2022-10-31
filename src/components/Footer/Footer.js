@@ -19,8 +19,8 @@ const Footer = () => {
             <div className="footer__socials">
                 <a target="_blank" href="https://www.facebook.com/sadman.alam.142"><FaFacebook></FaFacebook></a>
                 <a target="_blank" href="https://www.instagram.com/alam_sadman/?hl=en"><FaInstagramSquare></FaInstagramSquare></a>
-                <a target="_blank" href="https://github.com/sadmanalam142?tab=repositories"><FaGithubSquare></FaGithubSquare></a>
-                <a target="_blank" href="https://www.linkedin.com/in/sadman-alam-77b999231/"><BsLinkedin></BsLinkedin></a>
+                <a target="_blank" href="https://github.com/sadmanalam142"><FaGithubSquare></FaGithubSquare></a>
+                <a target="_blank" href="https://www.linkedin.com/in/sadmanalam/"><BsLinkedin></BsLinkedin></a>
             </div>
             <div className="footer__copyright">
                 <small>Copyright &copy; Sadman Alam. All right reserved.</small>
