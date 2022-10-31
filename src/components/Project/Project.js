@@ -38,11 +38,12 @@ const Project = () => {
                     <div className='project__item-image'>
                         <img src={project3} alt="first" />
                     </div>
-                    <h3>Ema John</h3>
-                    <p><small>(Frontend project)</small></p>
+                    <h3>Pathagar</h3>
+                    <p><small>(Fullstack project)</small></p>
                     <div className='project__item-cta'>
-                        <a target='_blank' href="https://github.com/sadmanalam142/ema-john" className='btn'>Code Link</a>
-                        <a target='_blank' href="https://astonishing-souffle-e74436.netlify.app/" className='btn btn-primary'>Website</a>
+                    <a target='_blank' href="https://github.com/Rafsan12/pathagar" className='btn'>Client Code</a>
+                        <a target='_blank' href="https://github.com/sadmanalam142/pathagar-server" className='btn'>Server Code</a>
+                        <a target='_blank' href="https://pathagar-7e2af.firebaseapp.com/" className='btn btn-primary'>Website</a>
                     </div>
                 </article>
             </div>
